@@ -13,7 +13,7 @@ Date of finished:
 - Проверена версия Python.
 - Пройдено знакомство с BotFather: имя бота и токен созданы успешно.
 
-![1.1.png]([https://github.com/vsnikitina2001-ops/devops-lab-nikitina/blob/main/lab1%20/images1/1.1.png](https://github.com/vsnikitina2001-ops/2026-vibe-coding-u4125-BorisovaVS/blob/main/attachments/IMG_6808.jpg)
+![1.1.png](https://github.com/vsnikitina2001-ops/2026-vibe-coding-u4125-BorisovaVS/blob/main/attachments/IMG_6808.jpg)
 
 ### Описание задачи
 Я работаю, учусь и занимаюсь домашними делами. Иногда мне очень тяжело совмещать все или делегировать.
