@@ -1,0 +1,3 @@
+python-telegram-bot[job-queue]==21.8
+python-dotenv==1.0.1
+TZdata==2025.2
